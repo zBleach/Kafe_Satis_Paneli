@@ -1,0 +1,17 @@
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\bin\Debug\netcoreapp3.1\KafeSatışPaneli.exe
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\bin\Debug\netcoreapp3.1\KafeSatışPaneli.deps.json
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\bin\Debug\netcoreapp3.1\KafeSatışPaneli.runtimeconfig.json
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\bin\Debug\netcoreapp3.1\KafeSatışPaneli.runtimeconfig.dev.json
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\bin\Debug\netcoreapp3.1\KafeSatışPaneli.dll
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\bin\Debug\netcoreapp3.1\KafeSatışPaneli.pdb
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.csprojAssemblyReference.cache
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.Form1.resources
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.Properties.Resources.resources
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.csproj.GenerateResource.cache
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.AssemblyInfoInputs.cache
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.AssemblyInfo.cs
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.csproj.CoreCompileInputs.cache
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.dll
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.pdb
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.genruntimeconfig.cache
+C:\Users\user\Masaüstü\C# Proje\KafeSatışPaneli\KafeSatışPaneli\obj\Debug\netcoreapp3.1\KafeSatışPaneli.Login.resources
